@@ -1,20 +1,30 @@
-
-
+/*
+  IcoMoon Font Icons — Custom Build
+  Font: mai.woff
+  Version: 1.0.0
+  Build: 2025-11-23 16:00 UTC+7
+  Author: Sholehuddin Khairy (KhairyK)
+  License: MIT LICENSE
+  NPMCDN/NPDN: https://npmcdn.kyrt.my.id/npm/fontic@1.0.0/dist/fontic.css
+  DO NOT GO TO masterDist/ DIRECTORY, IT CONTAINS BINARY FONT ICON SOURCE
+*/
 @font-face {
   font-family: 'icomoon';
   src: url('masterDist/mai.woff') format('woff');
   font-weight: normal;
   font-style: normal;
+  font-display: swap;
 }
 [class^="icon-"], [class*=" icon-"] {
-  font-family: 'icomoon';
-  speak: none;
+  font-family: 'icomoon' !important;
   font-style: normal;
   font-weight: normal;
   font-variant: normal;
   text-transform: none;
   line-height: 1;
-  display: inline-block;
+  speak: none;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 .icon-github:before { content: "\eab0"; }
 .icon-npm:before { content: "\eab1"; }
