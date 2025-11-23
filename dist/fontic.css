@@ -1,0 +1,27 @@
+@font-face {
+  font-family: 'icomoon';
+  src: url('MAI.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  font-family: 'icomoon';
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  display: inline-block;
+}
+.icon-github:before { content: "\eab0"; }
+.icon-npm:before { content: "\eab1"; }
+.icon-apple:before { content: "\eabe"; }
+.icon-html5:before { content: "\eae4"; }
+.icon-css3:before { content: "\eae6"; }
+.icon-connection:before { content: "\e91b"; }
+.icon-folder:before { content: "/e92f"; }
+.icon-folder-open:before { content: "/e930"; }
+.icon-printer:before { content: "/e954"; }
+.icon-keyboard:before { content: "/e955"; }
