@@ -49,7 +49,7 @@ Icon menggunakan pseudo-element ::before, jadi tidak memerlukan isi teks.
 📚 Daftar Icon
 
 Icon	Class
-
+```
 GitHub	icon-github
 NPM	icon-npm
 Apple	icon-apple / icon-appleinc
@@ -80,6 +80,7 @@ Firefox	icon-firefox
 Internet Explorer	icon-IE
 Edge	icon-edge
 Git	icon-git
+```
 
 ---
 
@@ -101,4 +102,4 @@ Perbaikan optimasi font
 
 Mapping unicode
 
-Dokumentas
+Dokumentasi
