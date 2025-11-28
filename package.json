@@ -17,5 +17,9 @@
   }
   "cdn": [
     "https://cdn.kyrt.my.id/libs/css/fontic/1.0.0/fontic.min.css", 
-    "https://npmcdn.kyrt.my.id/npm/fontic@1.0.0/dist/fontic.css"]
+    "https://npmcdn.kyrt.my.id/npm/fontic@1.0.0/dist/fontic.css", 
+    "https://cdn.jsdelivr.net/npm/fontic/dist/fontic.css",
+    "https://gcore.jsdelivr.net/npm/fontic/dist/fontic.css", 
+    "https://unpkg.com/fontic@1.0.0/dist/fontic.css"
+  ]
 }
