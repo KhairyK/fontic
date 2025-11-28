@@ -1,0 +1,21 @@
+{
+  "name": "fontic",
+  "version": "1.0.0",
+  "description": "An Awesome Font's Icon",
+  "main": "dist/fontic.css",
+  "type": "module",
+  "keywords": ["kyrt", "zoroon", "js", "css"],
+  "author": " Sholehuddin Khairy",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KhairyK/fontic.git"
+  },
+  "homepage": "https://github.com/KhairyK/fontic#readme",
+  "bugs": {
+    "url": "https://github.com/KhairyK/fontic/issues"
+  }
+  "cdn": [
+    "https://cdn.kyrt.my.id/libs/css/fontic/1.0.0/fontic.min.css", 
+    "https://npmcdn.kyrt.my.id/npm/fontic@1.0.0/dist/fontic.css"]
+}
