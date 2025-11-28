@@ -1,5 +1,11 @@
 # 🎨 Fontic — Icon Font Library
 
+![version](https://img.shields.io/badge/version-1.0.0-blue.svg)
+![license](https://img.shields.io/badge/license-MIT-green.svg)
+![status](https://img.shields.io/badge/build-passed-success.svg)
+![font](https://img.shields.io/badge/font-.woff-orange.svg)
+![cdn](https://img.shields.io/badge/CDN-npmcdn.kyrt.my.id-critical.svg)
+
 Fontic adalah library icon berbasis font (`.woff`) yang ringan, cepat, dan cocok untuk kebutuhan web modern.  
 Didesain dan dikembangkan oleh **Sholehuddin Khairy (KhairyK)**.
 
@@ -86,20 +92,20 @@ Git	icon-git
 
 📄 License
 
-Fontic dirilis di bawah lisensi MIT License.
-Bebas digunakan untuk project open source, commercial, maupun personal.
+> Fontic dirilis di bawah lisensi **MIT License**.
+> Bebas digunakan untuk project open source, commercial, maupun personal.
 
 
 ---
 
 🧑‍💻 Kontribusi
 
-Pull request & issue terbuka untuk:
+- Pull request & issue terbuka untuk:
 
-Penambahan icon baru
+- Penambahan icon baru
 
-Perbaikan optimasi font
+- Perbaikan optimasi font
 
-Mapping unicode
+- Mapping unicode
 
-Dokumentasi
+- Dokumentasi
