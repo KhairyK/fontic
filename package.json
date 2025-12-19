@@ -1,6 +1,6 @@
 {
   "name": "fontic",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "An Awesome Font's Icon",
   "main": "dist/fontic.css",
   "type": "module",
