@@ -1,10 +1,11 @@
 @font-face {
   font-family: 'fontic';
-  src:  url('fonts/fontic.eot?cvzxrp');
-  src:  url('fonts/fontic.eot?cvzxrp#iefix') format('embedded-opentype'),
-    url('fonts/fontic.ttf?cvzxrp') format('truetype'),
-    url('fonts/fontic.woff?cvzxrp') format('woff'),
-    url('fonts/fontic.svg?cvzxrp#fontic') format('svg');
+  src:  url('fontic.eot?cvzxrp');
+  src:  url('fontic.eot?cvzxrp#iefix') format('embedded-opentype'),
+    url('fontic.ttf?cvzxrp') format('truetype'),
+    url('fontic.woff?cvzxrp') format('woff'),
+    url('fontic.woff2?cvzxrp') format('woff2'),
+    url('fontic.svg?cvzxrp#fontic') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
